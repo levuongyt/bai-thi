@@ -1,0 +1,7 @@
+# ninja log v5
+1	122	756502098	CMakeFiles/native_lib.dir/quadratic_solver.c.o	b550137bb49b0ede
+123	219	756502098	C:/Users/levuo/AndroidStudioProjects/bai04_giai_ptb2/build/app/intermediates/cxx/Debug/f584m374/obj/x86/libnative_lib.so	6f5e5d06f832025
+2	140	756629280	CMakeFiles/native_lib.dir/quadratic_solver.c.o	b550137bb49b0ede
+140	259	756629280	C:/Users/levuo/AndroidStudioProjects/bai04_giai_ptb2/build/app/intermediates/cxx/Debug/f584m374/obj/x86/libnative_lib.so	6f5e5d06f832025
+3	131	756644064	CMakeFiles/native_lib.dir/quadratic_solver.c.o	b550137bb49b0ede
+131	247	756644064	C:/Users/levuo/AndroidStudioProjects/bai04_giai_ptb2/build/app/intermediates/cxx/Debug/f584m374/obj/x86/libnative_lib.so	6f5e5d06f832025

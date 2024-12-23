@@ -1,0 +1,3 @@
+C:/Users/levuo/AndroidStudioProjects/bai04_giai_ptb2/android/app/.cxx/Debug/f584m374/x86/CMakeFiles/native_lib.dir
+C:/Users/levuo/AndroidStudioProjects/bai04_giai_ptb2/android/app/.cxx/Debug/f584m374/x86/CMakeFiles/edit_cache.dir
+C:/Users/levuo/AndroidStudioProjects/bai04_giai_ptb2/android/app/.cxx/Debug/f584m374/x86/CMakeFiles/rebuild_cache.dir
