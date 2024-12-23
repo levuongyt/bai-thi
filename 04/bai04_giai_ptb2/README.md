@@ -1,5 +1,19 @@
 # bai04_giai_ptb2
 
+## Yêu cầu hệ thống
+- Flutter SDK
+- Android NDK phiên bản : '28.0.12674087'
+
+## Cài đặt NDK 
+1. Mở Android Studio. 
+2. đi tới File -> Settings . 
+3. Điều hướng đến Languages & Frameworks ->  Android SDK -> SDK Tools.
+4. Chọn `NDK (Side by side)` và cài đặt phiên bản `28.0.12674087`. Và chọn `CMake` để cài đặt `CMake` (nếu chưa cài đặt).
+5. Cập nhật tệp `local.properties` (project -> android -> local.properties) trong dự án của bạn. Đảm bảo rằng tệp `local.properties` của bạn trỏ đúng đến phiên bản NDK:  ndk.dir=C:\\Users\\levuo\\AppData\\Local\\Android\\Sdk\\ndk\\28.0.12674087 (Thay đường dẫn đến NDK của bạn). Cú pháp: (ndk.dir = đường dẫn đến ndk).
+
+LINK YOUTUBE DEMO KẾT QUẢ BÀI LÀM: https://youtu.be/dhnu1pGYgO4
+
+
 ## Mô tả:
 Ứng dụng giải phương trình bậc hai cho phép người dùng nhập các hệ số của phương trình bậc hai ax^2 + bx + c = 0. Sau đó, ứng dụng sẽ sử dụng một hàm viết bằng ngôn ngữ C để giải phương trình và hiển thị kết quả trên màn hình Flutter.
 

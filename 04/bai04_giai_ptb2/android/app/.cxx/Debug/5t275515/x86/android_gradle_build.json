@@ -1,0 +1,38 @@
+{
+  "buildFiles": [
+    "C:\\Users\\levuo\\AndroidStudioProjects\\bai_thi_intern\\04\\bai04_giai_ptb2\\native_lib\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\levuo\\AppData\\Local\\Android\\sdk\\cmake\\3.18.1\\bin\\ninja.exe",
+      "-C",
+      "C:\\Users\\levuo\\AndroidStudioProjects\\bai_thi_intern\\04\\bai04_giai_ptb2\\android\\app\\.cxx\\Debug\\5t275515\\x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\levuo\\AppData\\Local\\Android\\sdk\\cmake\\3.18.1\\bin\\ninja.exe",
+    "-C",
+    "C:\\Users\\levuo\\AndroidStudioProjects\\bai_thi_intern\\04\\bai04_giai_ptb2\\android\\app\\.cxx\\Debug\\5t275515\\x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "native_lib::@6890427a1f51a3e7e1df": {
+      "toolchain": "toolchain",
+      "abi": "x86",
+      "artifactName": "native_lib",
+      "output": "C:\\Users\\levuo\\AndroidStudioProjects\\bai_thi_intern\\04\\bai04_giai_ptb2\\build\\app\\intermediates\\cxx\\Debug\\5t275515\\obj\\x86\\libnative_lib.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "C:\\Users\\levuo\\AppData\\Local\\Android\\Sdk\\ndk\\28.0.12674087\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe",
+      "cppCompilerExecutable": "C:\\Users\\levuo\\AppData\\Local\\Android\\Sdk\\ndk\\28.0.12674087\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe"
+    }
+  },
+  "cFileExtensions": [
+    "c"
+  ],
+  "cppFileExtensions": []
+}
